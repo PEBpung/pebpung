@@ -1,6 +1,7 @@
 ## I'm Kimin Park 
 
-A.I. research engineer of Tesser.
+
+A.I. research engineer of Tesser.  
 I love computer vision for Medical imaging.
 
 <!--
