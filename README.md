@@ -1,8 +1,7 @@
-## I'm Kimin Park 
-
-
-A.I. research engineer of Tesser.  
-I love computer vision for Medical imaging.
+AI를 활용해 반복 업무를 개선하며, 실무 현장에서 직원들의 부담을 줄이고 효율성을 높이는 솔루션을 만드는 것을 좋아합니다.  
+LLM 기반 자동화 경험을 통해 기술의 실질적인 가치를 실현하는 데 집중하고 있습니다.  
+AI Agent를 활용하여 일하는 방식을 혁신하고자 합니다.  
+협업과 커뮤니케이션을 중요시하며, 다양한 팀과의 협업을 통해 사용자와 비즈니스 요구를 구체화하고 이를 반영한 솔루션을 설계해왔습니다.  
 
 <!--
 Here are some ideas to get you started:
