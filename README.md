@@ -1,17 +1,26 @@
-AI를 활용해 반복 업무를 개선하며, 실무 현장에서 직원들의 부담을 줄이고 효율성을 높이는 솔루션을 만드는 것을 좋아합니다.  
-LLM 기반 자동화 경험을 통해 기술의 실질적인 가치를 실현하는 데 집중하고 있습니다.  
-AI Agent를 활용하여 일하는 방식을 혁신하고자 합니다.  
-협업과 커뮤니케이션을 중요시하며, 다양한 팀과의 협업을 통해 사용자와 비즈니스 요구를 구체화하고 이를 반영한 솔루션을 설계해왔습니다.  
+# Kimin Park 👋  
+> AI Engineer (LLM) | Seoul, South Korea  
 
-<!--
-Here are some ideas to get you started:
-**PEBpung/pebpung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+As an AI Engineer specializing in LLM and AI Agents, I focus on developing intelligent systems that enhance operational efficiency and workflow quality.  
+My experience spans across implementing AI solutions in enterprise environments, where I've witnessed firsthand how AI can revolutionize traditional workflows.  
+I'm passionate about building AI Solutions that not only automate tasks but also solve complex real-world problems and enhance decision-making processes.  
 
+## 📫 Contact  
+- Email: [mcuwwa29@gmail.com](mailto:mcuwwa29@gmail.com)  
+- Phone: +82 10-8388-4209  
 
+## 🛠️ Technical Skills  
+- **AI/ML**: NLP, LLM, Fine-Tuning, Data Preprocessing 
+- **Infrastructure**: GCP, Docker, AWS, GitHub Actions, W&B  
+- **Backend**: FastAPI, Triton, PostgreSQL, ELK  
+- **Languages**: Python, SQL  
+- **Frameworks**: PyTorch, Hugging Face, LlamaIndex  
+
+## 💼 Key Experience
+- Developed LLM-based intelligent systems for automated workflow optimization
+- Implemented scalable AI model serving architecture using GCP and Triton
+- Led AI teams in successful deployment of solutions across enterprise environments
+
+## 🌱 Vision
+My goal is to build **Compound AI Systems** that enhance work quality and unlock human potential through innovative solutions.
