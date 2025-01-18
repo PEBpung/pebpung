@@ -4,7 +4,7 @@
 ## 🚀 About Me  
 As an AI Engineer specializing in LLM and AI Agents, I focus on developing intelligent systems that enhance operational efficiency and workflow quality.  
 My experience spans across implementing AI solutions in enterprise environments, where I've witnessed firsthand how AI can revolutionize traditional workflows.  
-I'm passionate about building AI Solutions that not only automate tasks but also solve complex real-world problems and enhance decision-making processes.  
+I'm passionate about building AI Solutions that not only automate tasks but also solve complex real-world problems and enhance decision-making processes.  
 
 ## 📫 Contact  
 - Email: [mcuwwa29@gmail.com](mailto:mcuwwa29@gmail.com)  
