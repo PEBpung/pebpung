@@ -2,9 +2,9 @@
 > AI Engineer (LLM) | Seoul, South Korea  
 
 ## 🚀 About Me  
-As an AI Engineer specializing in LLM and AI Agents, I focus on developing intelligent systems that enhance operational efficiency and workflow quality.  
-My experience spans across implementing AI solutions in enterprise environments, where I've witnessed firsthand how AI can revolutionize traditional workflows.  
-I'm passionate about building AI Solutions that not only automate tasks but also solve complex real-world problems and enhance decision-making processes.  
+- 의료 도메인과 법률 도메인에서 업무 효율화를 위한 GenAI 솔루션을 연구/개발을 진행하였습니다. 
+- AI 모델 서빙 및 상용화를 위해 GCP, Docker, FastAPI, Triton을 활용한 시스템 구축 진행하였습니다. 
+- 초기 설계부터 상용화까지 프로젝트를 주도적으로 진행하여, 개발팀 및 클라이언트와의 협업을 통해 현장에 제품을 도입한 경험이 있습니다.  
 
 ## 📫 Contact  
 - Email: [mcuwwa29@gmail.com](mailto:mcuwwa29@gmail.com)  
@@ -18,9 +18,6 @@ I'm passionate about building AI Solutions that not only automate tasks but also
 - **Frameworks**: PyTorch, Hugging Face, LlamaIndex  
 
 ## 💼 Key Experience
-- Developed LLM-based intelligent systems for automated workflow optimization
-- Implemented scalable AI model serving architecture using GCP and Triton
-- Led AI teams in successful deployment of solutions across enterprise environments
-
-## 🌱 Vision
-My goal is to build **Compound AI Systems** that enhance work quality and unlock human potential through innovative solutions.
+- 도메인 특화 GenAI 서비스 개발
+- GenAI 답변 생성 품질을 지속적으로 향상시키는 Feedback Loop 설계
+- INT8 Quantization 기법을 활용한 모델 최적화 및 효율성 개선
